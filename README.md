@@ -19,4 +19,4 @@
 
 <h4 align = "right">Leo23082005@gmail.com</h4>
 
-<font color="green"> Some green text </font>
+
