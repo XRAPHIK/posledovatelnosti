@@ -15,5 +15,5 @@
 <h4 align = "right">Тел:89117104825</h4>
 
 <h4 align = "right">Leo23082005@gmail.com</h4>
-<img
+
 
