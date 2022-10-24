@@ -18,6 +18,7 @@
 <img
      src="https://sun1-16.userapi.com/s/v1/ig2/SOM4LlJSfU-43arjbuqj8R_PjuBdWo5ks2QtZkQJ-vS7V9UyjMCM0jjQpc1XNWu4g9gQqYXEt0HfhEqXPc9WsmnD.jpg?size=200x200&quality=96&crop=1,238,1078,1078&ava=1"
      width = 300px
-     height = 200px>
+     height = 200px
+     align="right">
 
 
