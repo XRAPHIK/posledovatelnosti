@@ -4,11 +4,11 @@
 <h3 align="left"> <b><i>Как открыть:</i></b></h3> 
 <h3>Клонируем файл. заходим на <a href="app.diagrams.net">Сайт с  диаграммами</a></h3><br>
  
-<h4>Как со мной связаться <a href="https://vk.com/xraphik">ВКОНТАКТЕ</a></h4><br>
-
+<h4>Как со мной связаться</h4> 
+<br>
+<h5><a href="https://vk.com/xraphik">ВКОНТАКТЕ</a></h5>
 <h4>Номер телефона:89117104825</h4>
-
-<h4>Gmail. Leo23082005@gmail.com</h4>
+<h4>Leo23082005@gmail.com</h4>
 
 
 
